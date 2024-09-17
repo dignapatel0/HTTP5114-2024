@@ -30,4 +30,18 @@ This is a link [My portfolio]https://github.com/Dignapatel0
 
 ## Images
 
-![My photos](1.jpeg)
+![Photos](1.jpeg)
+
+## Code
+
+We can put inline copy by using a tie.
+
+To add an image use an '<img>' tag.
+
+You can add multi-line code by using three tics and the name of the coding language:
+
+```javascript
+fuction test(){
+    console.log("test");
+}
+```
