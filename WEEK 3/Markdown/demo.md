@@ -53,3 +53,8 @@ fuction test(){
 | HTML          | 5      |
 | Javascript    | 7      |
 | CSS           | 9      |
+
+## GitHub Flavour
+
+> [!Note]  
+> This is a note!
