@@ -30,4 +30,4 @@ This is a link [My portfolio]https://github.com/Dignapatel0
 
 ## Images
 
-![My photos](Digna_Photo.png)
+![My photos](1.jpeg)
