@@ -11,7 +11,7 @@ This Repo is for my Workshops in Web Dev 1 - HTTP5114 Assignment.
 ![GitHub](/images/github.png)
 
 > [!Note]  
-> Please parctice GitHub cmd.
+> You can learn GitHub from : [W3Schools](https://www.w3schools.com/git/).
 
 
 ### Sample Code
