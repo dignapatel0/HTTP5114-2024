@@ -26,7 +26,7 @@ This is an unorderd list:
 
 ## Links
 
-This is a link [My portfolio]https://github.com/Dignapatel0
+This is a link [My portfolio](https://github.com/Dignapatel0)
 
 ## Images
 
@@ -58,3 +58,4 @@ fuction test(){
 
 > [!Note]  
 > This is a note!
+

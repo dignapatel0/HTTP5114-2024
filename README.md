@@ -1,11 +1,21 @@
-# HTTP5114-2024
-My Course Files HTTP5114
+# Workshops in Web Development 1
+## HTTP5114
 
-Make a change!
+This Repo is for my Workshops in Web Dev 1 - HTTP5114 Assignment.
 
-1. Make a new repo on github.com
-2. Open your terminal
-3. Navigate your terminal to project destination
-4. Clone the repo
-5. Change directory into the new folder
-6. Open VSCode and point it to the same folder
+### My Github Profile Link 
+[View my github Profile](https://github.com/Dignapatel0)
+
+
+### Images
+![GitHub](/images/github.png)
+
+> [!Note]  
+> Please parctice GitHub cmd.
+
+
+### Sample Code
+```git
+git --version
+```
+
